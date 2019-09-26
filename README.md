@@ -10,3 +10,15 @@ Este proyecto fue desarrollado en React js utilizando diversas tecnologías y an
 - Se utilizó un poco de Flex-box 
 - Se utilizó Animate css para darle efectos de animación a los componentes. 
 
+Para probar el proyecto tiene que ejecutar los comandos en una terminal (de preferencia que sea una terminal de Git), también tener instalada la última versión de nodejs
+
+para descargar node puede ir a la siguiente URL: https://nodejs.org/es/
+
+PASOS A SEGUIR:
+
+1.- desde la ternimal escribir: git clone https://github.com/David22gohan/pokeinfo.git
+2.- cd pokeinfo 
+3.- npm install
+4.- npm start, y listo el proyecto será visible
+
+
