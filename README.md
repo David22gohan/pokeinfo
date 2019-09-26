@@ -7,6 +7,6 @@ Este proyecto fue desarrollado en React js utilizando diversas tecnologías y an
 
 - Se programó en Javascript utilizando la forma de ES6.
 - Se utilizó un framework llamado Material -UI para dar diseño y formato a mis componentes, también les permite adaptarse a dispositivos móviles
--  Se utilizó un poco de Flex-box 
--Se utilizó Animate css para darle efectos de animación a mis componentes. 
+- Se utilizó un poco de Flex-box 
+- Se utilizó Animate css para darle efectos de animación a los componentes. 
 
