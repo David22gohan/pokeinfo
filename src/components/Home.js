@@ -12,7 +12,7 @@ const useStyles = makeStyles(theme => ({
   }));
 
   
-
+// Se renderiza la imágen y el botón para ver los pokemons
 const Home = () =>{
 const classes = useStyles();
     return(

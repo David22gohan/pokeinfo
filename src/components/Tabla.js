@@ -38,7 +38,7 @@ function Tabla ( { pokeinfo } ){
     
 
     
-  //Se manda a llamar al componente MaterialTable con sus atributos declarados anteriormente 
+  //Se renderiza el componente MaterialTable con sus atributos declarados anteriormente 
   return(
   
     <MaterialTable

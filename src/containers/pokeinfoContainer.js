@@ -24,6 +24,7 @@ class PokeinfoContainer extends Component{
             })
         })
         .catch(error =>{
+            //si existe un error en la petición lo imprime en pantalla
             console.log(error);
         })
     }
@@ -36,9 +37,7 @@ class PokeinfoContainer extends Component{
                 <Tabla pokeinfo={pokeInfo} className="container_tabla"
                 
                 />    
-            </Animated>
-           
-            
+            </Animated>  
         );
     }
 }
