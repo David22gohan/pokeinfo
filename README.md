@@ -16,9 +16,9 @@ para descargar node puede ir a la siguiente URL: https://nodejs.org/es/
 
 PASOS A SEGUIR:
 
-1.- desde la ternimal escribir: git clone https://github.com/David22gohan/pokeinfo.git
-2.- cd pokeinfo 
-3.- npm install
-4.- npm start, y listo el proyecto será visible
+-  desde la ternimal escribir: git clone https://github.com/David22gohan/pokeinfo.git
+- Una vez que se terminó de clonar escribir lo siguiente: cd pokeinfo 
+- Luego escribir:  npm install
+- Y por último: npm start, y listo el proyecto será visible
 
 
